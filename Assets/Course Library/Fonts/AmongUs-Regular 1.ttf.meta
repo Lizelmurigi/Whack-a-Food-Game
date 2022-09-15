@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c9f5566825273e74db100b7b4ac50e0e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Among Us
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3c3370aaa3180e842ad68e8a2c1fb4c7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
